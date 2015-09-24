@@ -1,0 +1,12 @@
+#Comentarios
+
+q1 q2 
+a b 
+S A
+q1
+S
+@ #vacío
+q1 a S q1 A
+q1 a A q1 AA
+q1 b A q2 @
+q2 b A q2 @
