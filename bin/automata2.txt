@@ -1,0 +1,13 @@
+#Comentarios
+
+q1 q2 q3
+a b 
+S A
+q1
+S
+q3
+q1 a S q1 AS
+q1 a A q1 AA
+q1 b A q2 @
+q2 b A q2 @
+q2 @ S q3 S
